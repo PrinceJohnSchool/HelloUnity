@@ -20,3 +20,7 @@ public class HelloWorld : MonoBehaviour
         Debug.Log("Hello World");
     }
 }
+
+// Development-branch note: this comment was added on the development
+// branch to demonstrate the branch -> change -> merge workflow for
+// Milestone 2, then merged back into main.
